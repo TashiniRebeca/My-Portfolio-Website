@@ -1,7 +1,6 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 
-import React, { useTransition, useState, useEffect } from "react";
+import React, { useTransition, useState } from "react";
 import Image from "next/image";
 import TabBtn from "./ui/tab-btn";
 import SectionHeading from "./section-heading";
