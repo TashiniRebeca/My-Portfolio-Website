@@ -50,7 +50,7 @@ const Hero = () => {
               Hire Me <MdArrowCircleRight />
             </Link>
             <MagicBtn
-              href="/My Resume-Tashini.pdf"
+              href="/My Resume - Tashini.pdf"
               icon={<MdOutlineFileDownload opacity={500} />}
               position="right"
               otherClasses="focus:scale-110 active:scale-100 transition hover:scale-110"
